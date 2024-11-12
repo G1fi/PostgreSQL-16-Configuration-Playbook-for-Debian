@@ -1,0 +1,7 @@
+postgresql:
+  source_ip: 0.0.0.0/0
+
+  max_connections: 100
+  temp_buffers: 32MB
+  work_mem: 32MB
+  maintenance_work_mem: 2GB
